@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats-git-master-hayley-mcvays-projects.vercel.app/api/top-langs/?username=hmcvay"/>
+<img src="https://github-readme-stats-xi-sage.vercel.app/api/top-langs/?username=hmcvay"/>
 
 <!--
 **hmcvay/hmcvay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
