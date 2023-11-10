@@ -1,7 +1,8 @@
-<img src="https://github-readme-stats-git-master-hayley-mcvays-projects.vercel.app/api/top-langs/?username=hmcvay"/>
-
 <!--
 **hmcvay/hmcvay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://github-readme-stats-git-master-hayley-mcvays-projects.vercel.app/api/top-langs/?username=hmcvay"/>
+
 
 Here are some ideas to get you started:
 
